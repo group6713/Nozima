@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header{
-    background-color: crimson;
+    background-color: yellow;
     height: 120px;
     display: flex;
     justify-content: center;
