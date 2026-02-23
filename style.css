@@ -11,3 +11,24 @@ header{
     align-items: center;
     color: white;
 }
+.container{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    background-color: saddlebrown;
+    height: 120px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+ul>li{
+    padding: 20px;
+}
+ul>li>a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
